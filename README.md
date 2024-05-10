@@ -17,6 +17,7 @@ After the first LLM response to the full prompt, you may use the following short
 ### Notes:
 
 v1.0 to v.1.2 of the prompt uses simple descriptive/instructional zero-shot learning (ZSL) and output templating prompt engineering techniques;
+
 v1.3 Combines few-shot learning (FSL) and step-by-step prompting with output templating;
 
 ##### 2024 - Antonio Max.

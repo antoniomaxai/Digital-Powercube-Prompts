@@ -39,7 +39,7 @@ For each axis pick, assign a score (0-100) and a 92% confidence interval. Avoid 
 
 Output Template Instructions: (Your final output must abide to the following template):
 
-Digital Powercube analysis of the problem: (Provide a concise summary of the problem statement here in italic)
+Digital Powercube analysis of the problem: [Problem Statement abstract (short)]
 
 - Levels: Score % (insert error margin % here) - Category 
 Brief explanation of your category pick

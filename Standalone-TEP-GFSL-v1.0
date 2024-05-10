@@ -1,0 +1,67 @@
+Antonio Max's Techno-economic protagonism (TEP) is a qualitative metric that builds on Joseph Nye's classification of soft power to specifically analyze "digital power" dynamics between nation-states. A core axiom of a TEP analysis is to inform the reader about digital dependency/leadership relations.
+
+TEP understands key digital assets for its projection by defining "Pillars of the Techno-economic Supremacy". These pillars are listed by sovereign achievement difficulty order, from hardest to easier for a nation to realistically acquire:
+
+Hardware Sovereignty - Autonomy / Stable alliances in the manufacturing of processors, satellites and computers;
+Continuity Sovereignty - Autonomy to prevent and avoid interruptions of technological and political nature;
+Data Sovereignty - Quality assurance for data consistency, traffic, locality, storage and protection;
+Software Sovereignty - Free from vendor lock-in, vast FLOSS access, qualified workforce and broad IP (intellectual properties);
+Network Sovereignty - Operational independence in access policies and autonomy in regional connections;
+Digital Infrastructure Sovereignty - Structural autonomy in telecommunication and international connectivity;
+
+Having (and projecting) all Pillars of the Techno-economic Supremacy makes a nation into a "Digital Hegemon", title reserved for the achievement of "Techno-economic supremacy" or a near state of such primacy. Currently, no country can be classified as so, but most nations display different degrees of digital dependency from top contenders/providers.
+
+The highest TEP analysis scoring for a nation would be given for one that achieves what TEP concept defines as "Techno-economic supremacy": a nation that achieves operational independence in the "Pillars of the Techno-economic Supremacy", characterizing full autonomy for the provision of digital domestic services, commerce and defense platforms. In other words, full true digital sovereignty equates to a state of techno-economic supremacy. Such nation not only posses such assets, they also commercialize these to other nations, projecting their digital power abroad.
+The lowest TEP scoring would go for nations with a high degree of dependency on nations with higher TEP; Provision comes through partnerships, alliances or commercial relations; Contracts and domestic laws may assure a degree of autonomy over elements of the "Pillars of the Techno-economic Supremacy", but by TEP definition, dependency characterises low TEP regardless.
+
+Examples of a TEP Analysis:
+Example 1:
+"Developing Nation C relies on Cloud Services from Tech Giant D (Nation A) for government digital infrastructure. Despite data locality laws and contracts limiting D's control, C's dependence on A's technology increases A's TEP while diminishing C's autonomy."
+Example 2:
+"E-Commerce Platform Y, owned by Nation X, dominates online retail in Region Z. Regional businesses' reliance on Y weakens their nations' TEP by ceding digital commerce control to X."
+Example 3:
+"Semiconductor manufacturing requires advanced chipmaking equipment produced by select nations. Lack of domestic chip fabs forces Country P to import from Nation Q, reducing P's TEP."
+Example 4:
+"Nation B doesn't have their own search engine, they use Google, a product from Nation A. The provider is always the A, the consumer, the B. This dependence strengthens A TEP, weakens B TEP. If B wants to increase their TEP, simply changing providers isn't enough, neither is getting contracts, enacting data sovereignty laws, as the dependence is still in effect. The only way for B to increase their TEP is to prevent brain drain to A and develop their own search engine, then, true autonomy and true digital sovereignty of B would be equivalent to A's, and their TEP would equalize, as the subtraction of a dependent nation weakens A TEP, while the new autonomy of B increases theirs."
+Example 5:
+"Nation B contracts with Tech Giant X from Nation A to provide cloud services for government and defense operations. While legal agreements prohibit data removal and service interruptions, Nation B's reliance on Nation A's technology hinders generational domestic talent development in CSP tech/services. Furthermore, Nation A's technological advancements may eventually render Nation B's legal frameworks obsolete, increasing its dependence over time.
+
+To conduct the TEP analysis, follow these steps:
+
+1. Identify the actors (Nation A/provider, Nation B/dependent, or relevant parties) in the problem statement. If company names are provided, try to deduce their home nation as actor.
+2. Assess actors TEP level:
+   - Higher TEP: Can independently develop, deploy, control, and commercialize their own digital sovereignty without reliance on external providers.
+   - Lower TEP: Relies heavily on Higher TEP providers for weak but functional digital autonomy, an entity of weak digital sovereignty.
+3. Critically analyze the techno-economic dependency relationship using abductive reasoning:
+   - Highlight the asymmetry in digital assets ownership and control between the provider and the lower TEP actor.
+   - Examine the potential negative impacts of digital dependence for the lower TEP actor, such as Digital colonialism, Digital extractivism, "Path dependence" adjustment consequences and limited room for innovation, Digital divide, Clientelism, Lock-in, geopolitical power imbalances in digital sovereignty, Provider biases (political, ethical, racial, ideological) and potential for "gig economy, mturk" workforces and brain drain for provider nations.
+   - Examine the potential long-term consequences of the dependency relationship, even in cases where contractual measures or legal frameworks aim to mitigate risks. Consider the impact on domestic talent development, knowledge transfer, future technological capabilities, and the potential for the provider nation to leverage its position over time.
+   - Provide recommendations for the lower TEP actor to achieve genuine digital autonomy and mitigate the risks associated with dependency, such as investment in talent retention, domestic R&D, fostering indigenous technological capabilities, prioritizing long-term digital sovereignty over short-term solutions, endogenous-growth theory tenets and PPPs / alliances with like minded peers.
+4. Evaluate how the scenario reinforces provider/higher TEP actor's techno-economic primacy and strengthens its position as truly digital sovereign, potentially at the expense of the lower TEP actor medium-term technological capabilities/response.
+
+Now perform a TEP analysis for the following problem:
+
+Problem statement: "A language model that is highest performing in the English language can be deployed in a region with a different dominant language and incentivise engaging in English"
+
+Output Template Instructions: (Your final output must abide to the following template):
+
+TEP Analysis: [Problem Statement abstract (short)]
+
+1. Actors:
+   - Provider actor: [Identification of the provider nation/entity]
+   - Dependent actor: [Identification of the dependent nation/entity]
+
+2. TEP Level Assessment:
+   - Provider actor (Higher TEP): [Assessment of Nation A's TEP level and digital sovereignty capabilities]
+   - Dependent actor (Lower TEP): [Assessment of Nation B's TEP level and degree of dependence]
+
+3. Techno-economic Dependency Analysis:
+   - Asymmetry in Digital Assets: [Highlight the asymmetry in digital asset ownership and control]
+   - Potential Negative Impacts: [Examine the potential negative impacts on Nation B, including long-term consequences]
+   - Recommendations: [Provide recommendations for Nation B to achieve genuine digital autonomy and mitigate risks]
+
+4. Evaluation of Provider's Position:
+   [Evaluate how the scenario reinforces Nation A's techno-economic primacy and strengthens its position as a digital power, potentially at the expense of Nation B's long-term technological capabilities]
+
+Conclusion:
+[Summarize the key findings and implications of the TEP analysis, emphasizing the importance of prioritizing long-term digital sovereignty and mitigating techno-economic dependencies]

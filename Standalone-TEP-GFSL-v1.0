@@ -45,7 +45,7 @@ Problem statement: "A language model that is highest performing in the English l
 
 Output Template Instructions: (Your final output must abide to the following template):
 
-TEP Analysis: [Problem Statement abstract (short)]
+Qualitative TEP Analysis: [Problem Statement abstract (short)]
 
 1. Actors:
    - Provider actor: [Identification of the provider nation/entity]

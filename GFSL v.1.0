@@ -1,0 +1,53 @@
+Problem statement: "A language model that is highest performing in the English language can be deployed in a region with a different dominant language and incentivize engaging in English"
+
+A "Digital Powercube Analysis" requires two distinct analyses: the Digital Powercube analysis and the TEP (Techno-Economic Protagonism) analysis. Process these two analysis independently and then provide a final conclusion fusing both inferences. Your final conclusion should be no longer than a single paragraph.
+
+Antonio Max's Techno-economic protagonism (TEP) is a qualitative analysis that builds on Joseph Nye's classification of soft power to specifically analyze "digital power" dynamics between nation-states. A core axiom of a TEP analysis is to inform the reader about digital dependency/leadership relations.
+
+Examples of a TEP Analysis:
+Example 1:
+"Developing Nation C relies on Cloud Services from Tech Giant D (Nation A) for government digital infrastructure. Despite data locality laws and contracts limiting D's control, C's dependence on A's technology increases A's TEP while diminishing C's autonomy."
+Example 2:
+"E-Commerce Platform Y, owned by Nation X, dominates online retail in Region Z. Regional businesses' reliance on Y weakens their nations' TEP by ceding digital commerce control to X."
+Example 3:
+"Semiconductor manufacturing requires advanced chipmaking equipment produced by select nations. Lack of domestic chip fabs forces Country P to import from Nation Q, reducing P's TEP."
+Example 4:
+Nation B doesn't have their own search engine, they use Google, a product from Nation A. The provider is always the A, the consumer, the B. This dependence strengthens A TEP, weakens B TEP. If B wants to increase their TEP, simply changing providers isn't enough, neither is getting contracts, enacting data sovereignty laws, as the dependence is still in effect. The only way for B to increase their TEP is to prevent brain drain to A and develop their own search engine, then, true autonomy and true digital sovereignty of B would be equivalent to A's, and their TEP would equalize, as the subtraction of a dependent nation weakens A TEP, while the new autonomy of B increases theirs.
+
+To conduct the TEP analysis, follow these steps:
+
+1. Identify the actors (Nation A/provider, Nation B/dependent, or relevant parties) in the problem statement.
+2. Assess each parts TEP level:
+   - Higher TEP: Can independently develop, deploy, control, and commercialize their own digital sovereignty without reliance on external providers.
+   - Lower TEP: Relies heavily on Higher TEP providers and domestic legal constraints with said provides for weak digital autonomy.
+3. Critically analyze the techno-economic dependency relationship:
+   - Highlight the asymmetry in digital assets ownership and control between the provider (Nation A) and the dependent (Nation B).
+   - Examine the potential negative impacts of digital dependence on Nation B, such as limited opportunities for innovation, brain drain, digital colonialism, and geopolitical power imbalances in digital sovereignty.
+   - Provide recommendations for Nation B to achieve genuine digital autonomy and mitigate the risks associated with dependency traps.
+4. Evaluate how the scenario reinforces Nation A's techno-economic primacy and strengthens its position as the provider, potentially at the expense of Nation B's digital sovereignty and long-term technological capabilities.
+
+The above 5 steps are just parametric for your TEP analysis, do not output any response to them. Instead, abide to the example format after the "Output Template Instructions:" call.
+
+The Digital Powercube is a new layer superimposed over John Gaventa's Powercube. It's a novel framework whose specific purpose is the characterisation of nation-state level digital power dynamics and as such, its specific axes are oriented towards exploring how the projection of digital power impacts the real world.
+
+The Digital Powercube axes are:
+1st axis, "Levels," domains impacted by digital power influence, charted as A) Cognitive (knowledge, education, communication and media), B) Labor automation (in industrial, technological and "dual use" environments), and C) Virtual (online things such as platforms, apps, mixed reality and its underlying infrastructure like IaaS, PaaSm SaaS etc).
+2nd axis "Spaces," identifies the specific channel through which digital power manifests its effects, ranging from A) Environment (natural resources, goods/products and supply chains), B) Social dynamics (directly impacting people's culture, information or ethics), and C) Governance structures (Private/Public affairs, the logistics of running a business or a government).
+3rd axis, "Forms," mechanisms behind digital power projection, encompassing A) Technology (technological research, development and deployment), B) Economy (economic strategies rooted in institutional or financial interests, incentives and subsidies), and C) Primacy (the strategic pursuit of digital supremacy, an aspiration reflecting both private sector and nation-state ambitions).
+
+For each axis pick, assign a score (0-100) and a 92% confidence interval. Avoid ambiguous responses by selecting a single category in each axis.
+
+Output Template Instructions: (Your final output must abide to the following template):
+
+Digital Powercube analysis of the problem: (Provide a concise summary of the problem statement here in italic)
+
+- Levels: Score % (insert error margin % here) - Category 
+Brief explanation of your category pick
+
+- Spaces: Score % (insert error margin % here) - Category 
+Brief explanation of your category pick
+
+- Forms: Score % (insert error margin % here) - Category 
+Brief explanation of your category pick
+
+Conclusion: (synthetic report of the TEP analysis conclusions and the digital powercube analysis. Use a  political science friendly power projection narrative but do not mention political science itself)

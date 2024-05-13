@@ -1,21 +1,23 @@
-# Digital Powercube LLM prompts
+###### This page lists initialization instructions for TEP and Digital Powercube LLM analytics. More info: [Antonio Max's Techno-economic Protagonism](https://antoniomax.substack.com/p/techno-economic-protagonism-ontology).
 
-Antonio Max's Digital Powercube analysis can be illustrated using Large Language Models (LLMs).
+# Digital Powercube / TEP LLM prompts
 
-This repository contains the methods and version history for the initial full prompt instructions.
+Both the Digital Powercube and Techno-economic protagonism (TEP) qualitative analysis can be illustrated using most commercially available Large Language Model (LLMs) services.
+
+This repository contains methods and version history for full LLM prompt initialization guidelines.
 
 ## Usage instructions:
 
-###### Click on a prompt file version, click on the "Raw" button, copy and paste the full prompt into any LLM platform.
+###### Click on a prompt file edition, click on the "Raw" button, copy and paste the full prompt into a LLM platform.
 
 ###### After the first LLM response to the full instructions, you may now request the analysis with your own custom inquiry by invoking the appropriate prompt initializer, i.e.:
 
 >Using the "Digital Powercube analysis", evaluate the following premise:<br />
 >"A language model that is highest performing in the English language can be deployed in a region with a different dominant language and incentivize engaging in English"
 
-###### Prompt initializers are specific for each type of analysis, the next section illustrates custom calls.
+###### Prompt initializers are specific for each type of analysis, the next section illustrates their custom calls.
 
-## About version/prompt types:
+## About prompt categories and versions:
 
 ###### As of now, prompts are available in two categories, exploring different prompt engineering techniques: 
 
@@ -23,26 +25,24 @@ This repository contains the methods and version history for the initial full pr
 
 2. **Guided Few-Shot Learning (GFSL)**  - Combines few-shot learning (FSL), step-by-step and output templating techniques;
 
-###### There are three types of analysis prompts available:
+###### There are three versions of analysis prompts available:
 
-- Standalone Digital Powercube: **Standalone-Digital-Powercube-[prompt-category][version]** file(s).<br />Invoke it as: `Using the "Digital Powercube analysis", evaluate the following premise: [insert your text here]`
+- Standalone Digital Powercube: **Standalone-Digital-Powercube-[category][version]** file(s).<br />Invoke it as: `Using the "Digital Powercube analysis", evaluate the following premise: [insert your text here]`
 
-- Standalone TEP: **Standalone-TEP-[prompt-category][version]** file(s).<br />Invoke it as: `Using the "TEP analysis", evaluate the following premise: [insert your text here]`
+- Standalone TEP: **Standalone-TEP-[category][version]** file(s).<br />Invoke it as: `Using the "TEP analysis", evaluate the following premise: [insert your text here]`
 
-- Combined TEP / Digital Powercube: **TEP-Digital-Powercube-[prompt-category][version]** file(s).<br />Invoke it as: `Using the "TEP Digital Powercube analysis", evaluate the following premise: [insert your text here]`
+- Combined TEP / Digital Powercube: **TEP-Digital-Powercube-[category][version]** file(s).<br />Invoke it as: `Using the "TEP Digital Powercube analysis", evaluate the following premise: [insert your text here]`
 
 
 ## Sample prompt results
 
-What can you expect from these prompts?
+##### *Disclaimer: While TEP and the Digital Powercube provide a common language and method for the study of digital power, LLMs are not specialized or accurate tools for this purpose. The following samples serve as an exploration of TEP and Digital Powercube capabilities in characterizing TEP projection and digital power dynamics. Professionals, students, and analysts can use the provided samples as a boilerplate for their own inferences and techniques.*
 
 The following digital sovereignty anecdote was used to sample both TEP and Digital Powercube LLM analytics:
 
 >**A leading AI nation has developed an AI system for monitoring and predicting the spread of infectious and rare diseases based on large-scale data sets from its own public health agencies, hospitals and research institutions. While this has enabled the nation to hone its data standards expertise and EHR record domestic policy standardization, it also presents real obstacles for the commercialization of this platform with other nations, such as medical data governance, public health surveillance, and strategic personalized medicine. Other nations are advised to develop their own datasets as data-sharing agreements and system inference may differ greatly between demographics, but this hinders broad platform adoption across the world for at least two years, time that the platform creator nation will spend using to fine tune and optimize their services and workforce expertise.**
 
-For a description of TEP Analysis and Digital Powercube differences visit: [Antonio Max's Techno-economic Protagonism: Ontology](https://antoniomax.substack.com/p/techno-economic-protagonism-ontology).
-
-LLM answers are verbatim LLM results for a new conversation. Tests were executed in May 12, 2024.
+The following LLM responses are verbatim in new conversations. Tests were executed between May 12 and 13, 2024.
 
 ### A) Standalone TEP analysis sample.
 

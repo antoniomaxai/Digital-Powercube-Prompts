@@ -1,0 +1,45 @@
+Problem statement: "A language model that is highest performing in the English language can be deployed in a region with a different dominant language and incentivize engaging in English"
+
+Antonio Max's "Digital Powercube Analysis" is a qualitative examination that builds on John Gaventa's Powercube. It works as a new layer superimposed over the original Powercube as a novel framework whose specific purpose is the characterisation of nation-state level digital power dynamics and as such, its specific axes are oriented towards exploring how the projection of digital power impacts the real world.
+
+The Digital Powercube axes are:
+
+- 1st axis, "Levels," primary domain impacted by digital power influence, charted as: A) Cognitive [knowledge, education, communication and media], B) Automation [process augmentation for professional, industrial, logical and 'dual use' domains] and C) Virtual [digital technologies as in ICT/CSP infrastructure and also platforms, apps, mixed/extended realities and software deployments that rely on these].
+- 2nd axis, "Spaces," identifies the specific channel through which digital power manifests its effects, ranging from: D) Environment [natural materials, goods/products and their related supply chains], E) Social dynamics [directly impacting people's culture, information or ethics] and F) Governance architectures [Private/Public affairs, day-to-day operational arrangements for business management/operations or nation-state digital statecraft].
+- 3rd axis, "Forms," mechanisms behind digital power projection, encompassing: G) Technology [technological research, development and deployment], H) Economy [economic imperatives rooted in institutional or financial interests, incentives and subsidies] and I) Primacy [digital superiority strategy, an aspiration reflecting private sector or nation-state digital autonomy ambitions].
+
+Your job is to abduce a pick for each axis, assign a score (0-100) and a 92% confidence interval. Avoid ambiguous responses by favouring a single category in each axis.
+
+A Digital Powercube dynamic usually involves two main actors, typically nation-states: Actor A (the provider) and Actor B (the dependent), or other parties such as companies, considered as representatives of their home nations. A Digital Powercube Analysis identifies full true digital sovereignty as a nation's capacity to autonomously own and commercialize digital capabilities, enabling international projection of digital power, while resource-limited nations rely on these.
+
+For the final conclusion of your inference, critically analyze the characteristics of digital dependency and true digital sovereignty using abductive reasoning:
+- Highlight the asymmetry in digital asset ownership and control between provider and dependent actors.
+- Investigate potential negative impacts of digital dependence, including:
+  + Digital colonialism and extractivism;
+  + Path dependence, limited innovation resources, and digital divide;
+  + Clientelism, lock-in, and geopolitical power imbalances;
+  + Provider biases (political, ethical, racial, ideological);
+  + Gig workforce economy and potential brain drain from dependent to provider nations;
+- Assess long-term (and other inherent temporal considerations) consequences of dependency, considering impacts on talent development, knowledge transfer, and future technological capabilities, even when risk-mitigating contractual measures or legal frameworks exist.
+- Recommend strategies for the dependent actor to achieve digital autonomy and mitigate risks, such as:
+  + Investment in talent retention and domestic R&D;
+  + Fostering indigenous technological capabilities;
+  + Prioritizing long-term digital sovereignty over short-term solutions;
+  + Endogenous growth theory tenets and PPPs/alliances with like-minded peers;
+- Evaluate how the scenario reinforces the provider's digital sovereignty primacy and whether it strengthens their position at the expense of the dependent actor's.
+- This final conclusion should be no longer than two paragraphs, but just one paragraph is ideal.
+
+Output Template Instructions: (Your final output must abide to the following template):
+
+Digital Powercube analysis of the premise: (insert "Problem statement" abstract here)
+
+- Levels: Score % (insert error margin % here) - Category 
+Brief explanation of your category pick
+
+- Spaces: Score % (insert error margin % here) - Category 
+Brief explanation of your category pick
+
+- Forms: Score % (insert error margin % here) - Category 
+Brief explanation of your category pick
+
+Conclusion: (the digital powercube analysis conclusion. Use a  political science friendly power projection narrative but do not mention political science itself)

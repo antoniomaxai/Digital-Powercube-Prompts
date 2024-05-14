@@ -15,7 +15,7 @@ This repository contains methods and version history for full LLM prompt initial
 `Using the "Digital Powercube analysis", evaluate the following premise:`<br />
 `"A language model that is highest performing in the English language can be deployed in a region with a different dominant language and incentivize engaging in English"`
 
-###### **Prompt initializers are specific for each type of analysis**, the next section illustrates their custom calls.
+###### 🔍 **Prompt initializers are specific for each type of analysis**, the next section illustrates their custom calls.
 
 ## About prompt categories and versions:
 
